@@ -1,0 +1,21 @@
+#title{
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: 50px;
+}
+main{
+    margin: 1.5rem;
+}
+#descr{
+    text-align: center;
+    color: grey;
+    font-size: medium;
+}
+#service_title{
+    text-align: center;
+    margin-top: 3.25rem;
+    font-size: 25px;
+}
+.mdui-chip-title{
+    color: cornflowerblue;
+}
