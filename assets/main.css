@@ -19,3 +19,11 @@ main{
 .mdui-chip-title{
     color: cornflowerblue;
 }
+.footer {
+    position: fixed;
+    left: 10px;
+    bottom: 5px;
+    right: 10px; 
+    width: 95%;
+    text-align: center;
+    }
